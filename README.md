@@ -10,5 +10,7 @@ We provide our version of PGD implementations, which currently supports the data
 
 ```
 python -u PGD_train.py \
-        --dataset <Which Dataset> --model <Which Model> --norm <Which Perturbation Norm>
+       --dataset <Which Dataset> \
+       --model <Which Model> \
+       --norm <Which Perturbation Norm>
 ```
