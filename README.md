@@ -8,6 +8,15 @@ We provide our [PyTorch](https://pytorch.org/) implementations of PGD-based adve
 
 ### Usage
 
+__Get the codes__
+
+```
+git clone https://github.com/minxingzhang/PGD.git
+cd PGD
+```
+
+__Adversarially train a MODEL on a DATASET__
+
 ```
 python -u PGD_train.py \
        --dataset <Which Dataset> \
