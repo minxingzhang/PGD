@@ -24,6 +24,12 @@ python -u PGD_train.py \
        --norm <Which Perturbation Norm>
 ```
 
+__Evaluation__
+
+```
+git clone https://github.com/ChaojianYu/Robust-Weight-Perturbation.git
+```
+
 ### Reference
 
 [1] PGD: [https://arxiv.org/abs/1706.06083](https://arxiv.org/abs/1706.06083)
